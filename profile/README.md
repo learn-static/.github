@@ -2,7 +2,7 @@
 
 > Powering Digital Humanities Teaching and Learning with Static Web Approaches
 
-Welcome to the Learn-STATIC organization, a home for Digital Humanities-focued static web teaching modules and project templates.
+Welcome to the Learn-STATIC organization, a home for Digital Humanities-focused static web teaching modules and project templates.
 The inter-institutional team behind the Learn-STATIC initiative was funded by a [National Endowment for the Humanities (NEH)](https://www.neh.gov/) Digital Humanities Advancement Grant in 2021 to create the following initial tools:
 
 - 5 Foundational Learning Modules covering basic introductory concepts in static web development:
