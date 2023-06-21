@@ -18,7 +18,7 @@ The inter-institutional team behind the Learn-Static initiative was funded by a 
   - Text Analysis
   - Digital Project Recovery
 
-Librarians and Humanities faculty at the University of Idaho and University of Oregon will develop and pilot these educational tools over the 2021-2022 school year, and release them for public use in the summer of 2022. 
+Librarians and Humanities faculty at the University of Idaho and University of Oregon developed, piloted, and evaluated these educational tools over the 2021-2022 school year. 
 Learn-Static tools and the methodology behind them stem from the digital collections platform [CollectionBuilder](https://collectionbuilder.github.io/) and the [Lib-Static](https://lib-static.github.io/) community.
 
 ![NEH Logo](https://www.lib.uidaho.edu/media/cdil/neh-logo-small.jpg)
